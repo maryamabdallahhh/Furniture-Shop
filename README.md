@@ -1,7 +1,10 @@
 # shopapp
 
-<video src='https://github.com/maryamabdallahhh/Furniture-Shop/blob/main/shopapp%20-%20Made%20with%20Clipchamp.mp4' width=180/>
 
+https://github.com/user-attachments/assets/4cb222f5-734d-4f37-83c3-d2578d182a1b
+
+
+ 
 A new Flutter project.
 
 ## Getting Started
